@@ -2,11 +2,11 @@
 
 # 🔖 Smart Bookmark
 
-**A minimalist, real-time web organizer.**
+** A minimalist, real-time web organizer.**
 
-Smart Bookmark is a lightning-fast bookmark manager built for speed and privacy. No clutter—just your links, synced everywhere you need them instantly.
+ Smart Bookmark is a lightning-fast bookmark manager built for speed and privacy. No clutter—just your links, synced everywhere you need them instantly.
 
-**[Live Demo](https://smart-bookmark-app.vercel.app/)** • **[Report Bug](https://www.google.com/search?q=https://github.com/Vamsi-Krishna-B/smart-bookmark-app/issues)**
+** [Live Demo](https://smart-bookmark-app.vercel.app/)** • **[Report Bug](https://www.google.com/search?q=https://github.com/Vamsi-Krishna-B/smart-bookmark-app/issues)**
 
 ---
 
