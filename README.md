@@ -80,5 +80,3 @@ npm run dev
 
 
 ---
-
-**Would you like me to generate a clean, modern logo or a banner image for the top of this README?**
