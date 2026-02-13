@@ -22,7 +22,4 @@ Solved by enabling replication for bookmarks table in Supabase.
 Created policies to allow users to access only their own data.
 
 ## Live URL
-https://your-vercel-url
-
-## GitHub
-https://github.com/username/smart-bookmark
+https://smart-bookmark-app.vercel.app/
